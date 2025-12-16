@@ -264,23 +264,3 @@ I contributi sono benvenuti! Segui questi passaggi:
 ## 📄 Licenza
 
 Questo progetto è distribuito sotto licenza MIT. Vedi il file `LICENSE` per maggiori dettagli.
-
-## 👨‍💻 Autore
-
-Il tuo nome - [@tuousername](https://github.com/tuousername)
-
-## 🙏 Ringraziamenti
-
-- Icone emoji native per UI consistente
-- PocketBase per il backend serverless
-- Community React per supporto e risorse
-
-## 📞 Supporto
-
-Per problemi o domande:
-- Apri una issue su GitHub
-- Contatta: tuoemail@example.com
-
----
-
-⭐ Se questo progetto ti è stato utile, lascia una stella su GitHub!
