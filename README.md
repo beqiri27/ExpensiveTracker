@@ -229,11 +229,8 @@ budget-tracker/
 ├── public/
 │   └── favicon.ico
 ├── src/
-│   ├── components/
-│   │   ├── AuthModal.jsx      # Modal autenticazione
-│   │   └── ...
-│   ├── hooks/
-│   │   └── usePocketBase.js   # Hook per PocketBase
+│   ├── pocketbase/
+│   │   └── pocketbase.js   # Hook per PocketBase
 │   ├── App.jsx                # Componente principale
 │   ├── App.css                # Stili principali
 │   ├── Carte.jsx              # Gestione carte
