@@ -229,8 +229,7 @@ budget-tracker/
 ├── public/
 │   └── favicon.ico
 ├── src/
-│   ├── pocketbase/
-│   │   └── pocketbase.js   # Hook per PocketBase
+│   ├── Api.jsx                # Hook per PocketBase
 │   ├── App.jsx                # Componente principale
 │   ├── App.css                # Stili principali
 │   ├── Carte.jsx              # Gestione carte
