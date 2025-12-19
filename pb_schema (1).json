@@ -1,0 +1,79 @@
+[
+  {
+    "id": "pbc_1849616984",
+    "listRule": "",
+    "viewRule": "",
+    "createRule": "",
+    "updateRule": "",
+    "deleteRule": "",
+    "name": "Spese",
+    "type": "base",
+    "fields": [
+      {
+        "autogeneratePattern": "[a-z0-9]{15}",
+        "hidden": false,
+        "id": "text3208210256",
+        "max": 15,
+        "min": 15,
+        "name": "id",
+        "pattern": "^[a-z0-9]+$",
+        "presentable": false,
+        "primaryKey": true,
+        "required": true,
+        "system": true,
+        "type": "text"
+      },
+      {
+        "hidden": false,
+        "id": "number1821684051",
+        "max": null,
+        "min": null,
+        "name": "importo",
+        "onlyInt": false,
+        "presentable": false,
+        "required": false,
+        "system": false,
+        "type": "number"
+      },
+      {
+        "autogeneratePattern": "",
+        "hidden": false,
+        "id": "text1309676077",
+        "max": 0,
+        "min": 0,
+        "name": "categoria",
+        "pattern": "",
+        "presentable": false,
+        "primaryKey": false,
+        "required": false,
+        "system": false,
+        "type": "text"
+      },
+      {
+        "autogeneratePattern": "",
+        "hidden": false,
+        "id": "text258163646",
+        "max": 0,
+        "min": 0,
+        "name": "descrizione",
+        "pattern": "",
+        "presentable": false,
+        "primaryKey": false,
+        "required": false,
+        "system": false,
+        "type": "text"
+      },
+      {
+        "hidden": false,
+        "id": "bool2206969893",
+        "name": "entrata",
+        "presentable": false,
+        "required": false,
+        "system": false,
+        "type": "bool"
+      }
+    ],
+    "indexes": [],
+    "system": false
+  }
+]
